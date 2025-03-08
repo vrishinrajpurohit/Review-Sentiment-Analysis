@@ -24,6 +24,9 @@ The model was trained for **20 epochs** and achieved the following performance:
 - **Validation Accuracy**: ~93%  
 - **Precision, Recall, F1-score**: ~0.94  
 
+## Web App Screenshot
+
+![Review Sentiment Analysis Web App](./webapp.png)
 ## Notebook
 
 📌 The complete Jupyter Notebook for this project is available on **Kaggle**:  
